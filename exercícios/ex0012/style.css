@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+#internas {
+
+    color: rgb(136, 136, 103);
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#externas {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style:normal
+    /*A URL precisa ficar na página HTML*/
+}
+
